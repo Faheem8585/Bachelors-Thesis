@@ -1,3 +1,25 @@
+## App
+[![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE)
+![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-2.x-0175C2?logo=dart)
+![firebase_auth](https://img.shields.io/pub/v/firebase_auth.svg?label=firebase_auth&logo=firebase)
+![firebase_core](https://img.shields.io/pub/v/firebase_core.svg?label=firebase_core&logo=firebase)
+![firebase_messaging](https://img.shields.io/pub/v/firebase_messaging.svg?label=firebase_messaging&logo=firebase)
+![flutter_stripe](https://img.shields.io/pub/v/flutter_stripe.svg?label=flutter_stripe)
+![GetX](https://img.shields.io/pub/v/get.svg?label=GetX)
+![shared_preferences](https://img.shields.io/pub/v/shared_preferences.svg?label=shared_preferences)
+
+## Admin
+[![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE)
+![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-2.x-0175C2?logo=dart)
+![firebase_auth](https://img.shields.io/pub/v/firebase_auth.svg?label=firebase_auth&logo=firebase)
+![firebase_core](https://img.shields.io/pub/v/firebase_core.svg?label=firebase_core&logo=firebase)
+![firebase_messaging](https://img.shields.io/pub/v/firebase_messaging.svg?label=firebase_messaging&logo=firebase)
+![GetX](https://img.shields.io/pub/v/get.svg?label=GetX)
+![shared_preferences](https://img.shields.io/pub/v/shared_preferences.svg?label=shared_preferences)
+
+
 Pak Charity is a mobile app that links people in need with verified donors. It adds an admin review step, push notifications, and a donation progress bar to keep each request on track. Built with Flutter and Firebase as part of a BSCS thesis.
 # At a glance
 
