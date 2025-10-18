@@ -19,7 +19,7 @@ Donor/recipient profiles and basic history stored in Firebase.
 
 Splash, Onboarding, Sign-up/Sign-in, Donor Dashboard, Admin portal, Recipient Request, Donations.
 
-Architecture and design
+# Architecture and design
 
 Event-driven flow: user actions trigger notifications and state changes across roles. 
 
